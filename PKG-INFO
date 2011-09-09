@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: csp
+Version: 0.1alpha10
+Summary: An implemention of the Comet Session protocol specification for twisted: http://orbited.org/blog/files/cps.html
+Home-page: http://www.orbited.org
+Author: Michael Carter
+Author-email: CarterMichael@gmail.com
+License: MIT License
+Description: This csp implementation provides a twisted-style Port object that allows you to use existing Twisted Protocols and Factories, but listen to connections from a browser.
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
